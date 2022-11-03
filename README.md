@@ -2,11 +2,11 @@
 ## Machine Learning
 ![image](https://user-images.githubusercontent.com/108296379/182138583-9011699a-f009-4454-885e-80dca182b6c8.png)
 
-## Herramientas
+# Herramientas
 
 **Visual Estudio**
 
-# Librerias
+## Librerias
 
 Python
 
@@ -24,9 +24,9 @@ sklearn
 
 folium
 
-## Glosario del trabajo:
+# Glosario del trabajo:
 
-# Pogramas:
+## Pogramas:
 
 Visual Estudio: Un entorno de desarrollo integrado (IDE).
 
@@ -44,7 +44,7 @@ sklearn: Es una herramienta para análisis predictivo, que incluyen clasificador
 
 folium: Herramienta de visualización, permite la concepción de mapas interactivos.
 
-## Paso a Seguir:
+# Paso a Seguir:
 1. Clonacion de Repositorio mediante Gui Bash Y descarga de Google Drive
 2. Carga de archivos .csv Vista de datos 
 3. Mapa Conseptual de los datos faltante
