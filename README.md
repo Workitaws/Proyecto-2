@@ -9,12 +9,19 @@
 ## Librerias
 
 Python
+
 Pandas 
-Numpy 
+
+Numpy
+
 matplotlib
+
 seaborn 
+
 missingno
+
 sklearn
+
 folium
 
 ## Glosario del trabajo:
