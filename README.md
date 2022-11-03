@@ -33,10 +33,15 @@ Visual Estudio: Un entorno de desarrollo integrado (IDE).
 ###Libreria:
 
 Pandas y Numpy : cargar datos, modelar, analizar, manipular y prepararlos.
+
 matplotlib : Herramienta para la generación de gráficos en dos dimensiones, a partir de datos contenidos en listas o arrays.
+
 seaborn  : Visualización de datos que trabaja mediante matplotlib.
+
 missingno: Permite ver de una forma visual dónde se encuentran los valores nulos en un conjunto de datos.
+
 sklearn: Es una herramienta para análisis predictivo, que incluyen clasificadores, algoritmos de clusterización, etc. 
+
 folium: Herramienta de visualización, permite la concepción de mapas interactivos.
 
 ## Paso a Seguir:
@@ -47,7 +52,7 @@ folium: Herramienta de visualización, permite la concepción de mapas interacti
 5. Mejora de los datos(TRAIN, TEST)
 6. Columnas pre seleciona tanto para X como Para Y.
 7. Entrenamiento mediante la libreria SKLEARN MODELO TRAIN Y TEST
-8. Creacion de .Csv De (Test "Pred")
-9. Creacion Mapa Conceptual de Latitud y longitud
+8. Creacion de .Csv De ("Pred")
+9. Creacion Mapa Conceptual de Latitud y longitud (FOLIUM)
 
 
