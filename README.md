@@ -6,7 +6,7 @@
 
 **Visual Estudio**
 
-## Librerias
+# Librerias
 
 Python
 
@@ -26,7 +26,7 @@ folium
 
 ## Glosario del trabajo:
 
-###Pogramas:
+# Pogramas:
 
 Visual Estudio: Un entorno de desarrollo integrado (IDE).
 
