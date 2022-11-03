@@ -30,7 +30,7 @@ folium
 
 Visual Estudio: Un entorno de desarrollo integrado (IDE).
 
-###Libreria:
+## Libreria:
 
 Pandas y Numpy : cargar datos, modelar, analizar, manipular y prepararlos.
 
