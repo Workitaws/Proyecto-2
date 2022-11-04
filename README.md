@@ -51,8 +51,10 @@ folium: Herramienta de visualización, permite la concepción de mapas interacti
 4. Mapa de calor para ver la correlación entre las variables
 5. Mejora de los datos(TRAIN, TEST)
 6. Columnas pre seleciona tanto para X como Para Y.
-7. Entrenamiento mediante la libreria SKLEARN MODELO TRAIN Y TEST
-8. Creacion de .Csv De ("Pred")
-9. Creacion Mapa Conceptual de Latitud y longitud (FOLIUM)
+7. Entrenamiento mediante la libreria SKLEARN MODELO(Kvecinos,KVS , Árbol de decisión , Pipeline) TRAIN Y TEST
+8. Diagrama de barras para la visualisacion de cada propiedad  
+9. Pairplot Caractreristica de Cada propiedad
+10. Creacion de .Csv De ("Pred")
+11. Creacion Mapa Conceptual de Latitud y longitud (FOLIUM)
 
 
