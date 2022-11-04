@@ -52,10 +52,11 @@ folium: Herramienta de visualización, permite la concepción de mapas interacti
 5. Mejora de los datos(TRAIN, TEST)
 6. Columnas pre seleciona tanto para X como Para Y.
 7. Entrenamiento mediante la libreria SKLEARN MODELO(Kvecinos,KVS , Árbol de decisión , Pipeline) TRAIN Y TEST(Solo Entrenamiento)
-8. Grafica para arbol de decisiones
-9. Diagrama de barras para la visualisacion de cada propiedad  
-10. Pairplot Caractreristica de Cada propiedad
-11. Creacion de .Csv De ("Pred")
-12. Creacion Mapa Conceptual de Latitud y longitud (FOLIUM)
+8. Matriz de Confusión para ver el analisis de los datos.  
+9. Grafica para arbol de decisiones
+10. Diagrama de barras para la visualisacion de cada propiedad  
+11. Pairplot Caractreristica de Cada propiedad
+12. Creacion de .Csv De ("Pred")
+13. Creacion Mapa Conceptual de Latitud y longitud (FOLIUM)
 
 
